@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5144'
     url: http://www.gutenberg.org/2009/agents/5144
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13591#Noorwegens-Letterkunde-in-de-Negentiende-Eeuw
 gutenberg_issued: '2004-10-04'
 gutenberg_type: Text
 identifiers:
