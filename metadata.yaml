@@ -1,0 +1,27 @@
+_repo: Noorwegens-Letterkunde-in-de-Negentiende-Eeuw_13591
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boer, R. C. (Richard Constant)
+    alias: Boer, Richard Constant
+    birthdate: 1863
+    deathdate: 1929
+    gutenberg_agent_id: '5144'
+    url: http://www.gutenberg.org/2009/agents/5144
+description: ''
+gutenberg_issued: '2004-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13591'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norwegian literature -- 19th century -- History and criticism'
+title: Noorwegens Letterkunde in de Negentiende Eeuw
+url: http://www.gutenberg.org/ebooks/13591
